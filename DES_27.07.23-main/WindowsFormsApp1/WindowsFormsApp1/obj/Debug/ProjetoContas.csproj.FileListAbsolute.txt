@@ -1,0 +1,13 @@
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1.mdf
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1_log.ldf
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjetoContas.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUsuario.resources
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjetoContas.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjetoContas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Aluno\Downloads\DES_27.07.23-main\DES_27.07.23-main\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
